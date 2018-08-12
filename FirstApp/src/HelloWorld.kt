@@ -36,4 +36,26 @@ fun main(args:Array<String>) {
         This is third line
     """
     print(multiline)
+
+    // Pairs in kotlin
+    val point = Pair(3, 5)
+    // point.first = 3
+    // point.second = 5
+    val (a, b) = point
+    // a = 3
+    // b = 5
+
+    // While loop in kotlin
+    var input = readLine()!!.toInt()
+    var factorial = 1
+
+    while(input > 0){
+        factorial *= input
+        input -= 1
+    }
+
+    println("Factorial is $factorial")
+
+
+
 }
