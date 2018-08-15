@@ -134,7 +134,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534334441246" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534338002784" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
@@ -149,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.AdvancedClassesKt">
+  <component name="RunManager" selected="Kotlin.EnumKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -188,14 +188,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="EnumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="FirstApp" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
+      <option name="MAIN_CLASS_NAME" value="EnumKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -236,19 +236,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.FunctionsKt" />
       <item itemvalue="Kotlin.LambdasKt" />
       <item itemvalue="Kotlin.ClassesKt" />
       <item itemvalue="Kotlin.PropertiesKt" />
       <item itemvalue="Kotlin.AdvancedClassesKt" />
+      <item itemvalue="Kotlin.EnumKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EnumKt" />
         <item itemvalue="Kotlin.AdvancedClassesKt" />
         <item itemvalue="Kotlin.PropertiesKt" />
         <item itemvalue="Kotlin.ClassesKt" />
         <item itemvalue="Kotlin.LambdasKt" />
-        <item itemvalue="Kotlin.FunctionsKt" />
       </list>
     </recent_temporary>
   </component>
